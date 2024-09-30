@@ -1,2 +1,2 @@
 # WebsitePortfolio
-a website pprtofoleo of my website s
+a website portfolio of my websites
